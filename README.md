@@ -1,50 +1,8 @@
 # Thesis Template
 
-[![ci](https://github.com/unitn-drive/thesis/actions/workflows/ci.yaml/badge.svg)](https://github.com/unitn-drive/thesis/actions/workflows/ci.yaml)
+This is a Thesis template example for the doctoral thesis at the Center of Mind/Brain Sicence (CIMeC), Univeristy of Trento. 
 
-Thesis Template for Computer Science at the [University of Trento](https://www.unitn.it).
-
-## Development
-
-### Requirements
-
-| **Name**   | **Homepage**                  |
-| ---------- | ----------------------------- |
-| `TeX Live` | <https://www.tug.org/texlive> |
-| `Node.js`  | <https://nodejs.org>          |
-| `npm`      | <https://www.npmjs.com>       |
-
-### Preparation
-
-1. Clone
-
-   ```sh
-   git clone https://github.com/unitn-drive/thesis.git
-   cd thesis
-   ```
-
-1. Install Dependencies
-
-   ```sh
-   npm ci
-   ```
-
-### Build
-
-```sh
-npm run build
-```
-
-### Scripts
-
-> **Note**: Execute with `npm run <NAME>`
-
-| **Name** | **Description**  |
-| -------- | ---------------- |
-| `build`  | Build PDF        |
-| `check`  | Check for errors |
-| `clean`  | Clean            |
-| `fix`    | Fix errors       |
+This repository was forked and extendend from the repository: https://github.com/unitn-drive/thesis.git
 
 ## License
 
