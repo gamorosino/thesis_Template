@@ -5,11 +5,17 @@ This is a thesis template example for the doctoral thesis at the Center of Mind/
 This repository was forked and extended from the repository: https://github.com/unitn-drive/thesis.git
 
 ## Preview
-You can see [PDF](https://github.com/gamorosino/thesis_Template/blob/master/output_example.pdf)
+You can see full pdf exampled here: [PDF](https://github.com/gamorosino/thesis_Template/blob/master/output_example.pdf)
  
+ Here few pages of the example of output:
 ![alt tag](https://github.com/gamorosino/thesis_Template/blob/master/png/output-pag-1.png)
 ![alt tag](https://github.com/gamorosino/thesis_Template/blob/master/png/output-pag-2.png)
 ![alt tag](https://github.com/gamorosino/thesis_Template/blob/master/png/output-pag-3.png)
+![alt tag](https://github.com/gamorosino/thesis_Template/blob/master/png/output-pag-4.png)
+![alt tag](https://github.com/gamorosino/thesis_Template/blob/master/png/output-pag-5.png)
+![alt tag](https://github.com/gamorosino/thesis_Template/blob/master/png/output-pag-6.png)
+![alt tag](https://github.com/gamorosino/thesis_Template/blob/master/png/output-pag-7.png)
+![alt tag](https://github.com/gamorosino/thesis_Template/blob/master/png/output-pag-8.png)
 
 
 ## License
